@@ -76,6 +76,6 @@ const game = new Phaser.Game({
         height: 1080
     },
     scene: [Prod, Menu],
-    title: "Scene Flow Version1",
+    title: "Cinematic",
 });
 
