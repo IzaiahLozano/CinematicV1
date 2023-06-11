@@ -58,7 +58,7 @@ class Menu extends Phaser.Scene {
 
          this.input.on('pointerup', () => {
             // Advance to the next scene
-            this.scene.start('lv1');
+            this.scene.start('Prod');
         });
 
     }
